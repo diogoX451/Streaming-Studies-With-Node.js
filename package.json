@@ -1,0 +1,13 @@
+{
+  "name": "streamnode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "Esse é um teste"
+  },
+  "dependencies": {
+    "socket.io": "^4.5.0"
+  }
+}
